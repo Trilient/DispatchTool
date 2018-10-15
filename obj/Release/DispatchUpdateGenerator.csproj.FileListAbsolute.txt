@@ -1,0 +1,12 @@
+C:\Users\smwsh\Documents\Visual Studio 2017\Projects\DispatchUpdateGenerator\DispatchUpdateGenerator\bin\Release\DispatchUpdateGenerator.exe.config
+C:\Users\smwsh\Documents\Visual Studio 2017\Projects\DispatchUpdateGenerator\DispatchUpdateGenerator\bin\Release\DispatchUpdateGenerator.exe
+C:\Users\smwsh\Documents\Visual Studio 2017\Projects\DispatchUpdateGenerator\DispatchUpdateGenerator\bin\Release\DispatchUpdateGenerator.pdb
+C:\Users\smwsh\Documents\Visual Studio 2017\Projects\DispatchUpdateGenerator\DispatchUpdateGenerator\bin\Release\Engine.dll
+C:\Users\smwsh\Documents\Visual Studio 2017\Projects\DispatchUpdateGenerator\DispatchUpdateGenerator\bin\Release\Engine.pdb
+C:\Users\smwsh\Documents\Visual Studio 2017\Projects\DispatchUpdateGenerator\DispatchUpdateGenerator\obj\Release\DispatchUpdateGenerator.csprojAssemblyReference.cache
+C:\Users\smwsh\Documents\Visual Studio 2017\Projects\DispatchUpdateGenerator\DispatchUpdateGenerator\obj\Release\DispatchUpdateGenerator.Properties.Resources.resources
+C:\Users\smwsh\Documents\Visual Studio 2017\Projects\DispatchUpdateGenerator\DispatchUpdateGenerator\obj\Release\DispatchUpdateGenerator.csproj.GenerateResource.cache
+C:\Users\smwsh\Documents\Visual Studio 2017\Projects\DispatchUpdateGenerator\DispatchUpdateGenerator\obj\Release\DispatchUpdateGenerator.csproj.CoreCompileInputs.cache
+C:\Users\smwsh\Documents\Visual Studio 2017\Projects\DispatchUpdateGenerator\DispatchUpdateGenerator\obj\Release\DispatchUpdateGenerator.csproj.CopyComplete
+C:\Users\smwsh\Documents\Visual Studio 2017\Projects\DispatchUpdateGenerator\DispatchUpdateGenerator\obj\Release\DispatchUpdateGenerator.exe
+C:\Users\smwsh\Documents\Visual Studio 2017\Projects\DispatchUpdateGenerator\DispatchUpdateGenerator\obj\Release\DispatchUpdateGenerator.pdb
